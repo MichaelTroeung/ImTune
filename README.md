@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<a href="https://github.com/MichaelTroeung/Icon-Converter/releases/download/Release/IconConverter-1.0.1.dmg"><img src="/Images/Button.png" width="20%"></a>
+<a href="https://github.com/MichaelTroeung/Icon-Converter/releases/download/Release/IconConverter-1.0.1.dmg"><img src="/Images/macOS_Download_Button.png" width="20%"></a>
 </p>
 
 <p align ="center">
