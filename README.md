@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="/Images/IconConverter.png" width = "110"><br/>
+  <img src="/Images/ImTune_Icon.png" width = "110"><br/>
 <b>ImTune</b>
 </p>
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align ="center">
-<img src = "Images/Icon Converter Summary Page.png" width = "700">
+<img src = "Images/ImTune_Preview.png" width = "700">
 </p>
 
 ### Features
