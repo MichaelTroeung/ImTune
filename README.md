@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<a href="https://github.com/MichaelTroeung/Icon-Converter/releases/download/Release/IconConverter-1.0.1.dmg"><img src="/Images/macOS_Download_Button.png" width="20%"></a>
+<a href="https://github.com/MichaelTroeung/ImTune/releases/download/Release/ImTune.app.zip"><img src="/Images/macOS_Download_Button.png" width="20%"></a>
 </p>
 
 <p align ="center">
@@ -28,7 +28,7 @@
 <br/>
 
 ### Project Files 
-[ImTune Source Files](https://github.com/MichaelTroeung/Icon-Converter/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MacOS Build [dmg]](https://github.com/MichaelTroeung/Icon-Converter/releases/download/Release/IconConverter-1.0.1.dmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[ImTune Source Files](https://github.com/MichaelTroeung/ImTune/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MacOS Build [dmg]](https://github.com/MichaelTroeung/ImTune/releases/download/Release/ImTune.app.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 MacOS [.dmg] installer available above. <b> NOTE: On MacOS right click and open to override warning. </b>
